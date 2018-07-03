@@ -6,14 +6,14 @@
     border-radius: 50%;
     //center clock text in middle of circle
     display: flex;
-    height: 14rem;
+    height: 20rem;
     //centers horizontally
     justify-content: center;
     margin: 4rem auto;
-    width: 14rem
+    width: 20rem
 }
 .clock-text {
     color: $clock-text-color;
-    font-size: 2.25rem;
+    font-size: 3.25rem;
     font-weight: 300;
 }
